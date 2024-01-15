@@ -1,0 +1,85 @@
+C:/Users/ctr/source/repos/PokemonBattleSimulator/bin/Debug/net7.0/PokemonBattleSimulator.exe
+C:/Users/ctr/source/repos/PokemonBattleSimulator/bin/Debug/net7.0/PokemonBattleSimulator.deps.json
+C:/Users/ctr/source/repos/PokemonBattleSimulator/bin/Debug/net7.0/PokemonBattleSimulator.runtimeconfig.json
+C:/Users/ctr/source/repos/PokemonBattleSimulator/bin/Debug/net7.0/PokemonBattleSimulator.dll
+C:/Users/ctr/source/repos/PokemonBattleSimulator/bin/Debug/net7.0/PokemonBattleSimulator.pdb
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/PokemonBattleSimulator.csproj.AssemblyReference.cache
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/PokemonBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfoInputs.cache
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfo.cs
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/PokemonBattleSimulator.csproj.CoreCompileInputs.cache
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/PokemonBattleSimulator.dll
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/refint/PokemonBattleSimulator.dll
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/PokemonBattleSimulator.pdb
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/PokemonBattleSimulator.genruntimeconfig.cache
+C:/Users/ctr/source/repos/PokemonBattleSimulator/obj/Debug/net7.0/ref/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.deps.json
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.runtimeconfig.json
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.pdb
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfoInputs.cache
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfo.cs
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.csproj.CoreCompileInputs.cache
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/obj/Debug/net7.0/refint/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.pdb
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.genruntimeconfig.cache
+/Users/marcvroegh/Downloads/PokemonBattleSimulator 2/obj/Debug/net7.0/ref/PokemonBattleSimulator.dll
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfoInputs.cache
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfo.cs
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.csproj.CoreCompileInputs.cache
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.dll
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/obj/Debug/net7.0/refint/PokemonBattleSimulator.dll
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.pdb
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.deps.json
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.runtimeconfig.json
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.dll
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.pdb
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.genruntimeconfig.cache
+/home/marc/Downloads/PokemonBattleSimulator 2/PokemonBattleSimulator 2/obj/Debug/net7.0/ref/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.deps.json
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.runtimeconfig.json
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.pdb
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfoInputs.cache
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfo.cs
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.csproj.CoreCompileInputs.cache
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/refint/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.pdb
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.genruntimeconfig.cache
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/ref/PokemonBattleSimulator.dll
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfoInputs.cache
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfo.cs
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.csproj.CoreCompileInputs.cache
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.dll
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/refint/PokemonBattleSimulator.dll
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.pdb
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.deps.json
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.runtimeconfig.json
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.dll
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.pdb
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.genruntimeconfig.cache
+/home/marc/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/ref/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.deps.json
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.runtimeconfig.json
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/bin/Debug/net7.0/PokemonBattleSimulator.pdb
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfoInputs.cache
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.AssemblyInfo.cs
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.csproj.CoreCompileInputs.cache
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/refint/PokemonBattleSimulator.dll
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.pdb
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/PokemonBattleSimulator.genruntimeconfig.cache
+/Users/marcvroegh/Downloads/PokemonBattleSimulatorgood 2/PokemonBattleSimulatorgood/PokemonBattleSimulator 2/obj/Debug/net7.0/ref/PokemonBattleSimulator.dll
